@@ -1,6 +1,6 @@
 
 
-* 注册 [clever-cloud](https://www.clever-cloud.com/)
+* 注册 [clever-cloud](https://www.clever-cloud.com/)需要绑定信用卡
 
 
 
