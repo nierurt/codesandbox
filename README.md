@@ -1,6 +1,10 @@
 
 
-* 注册 [CodeSandbox](https://codesandbox.io/)
+* 注册 [clever-cloud](https://www.clever-cloud.com/)
+
+
+
+* 注册 [CodeSandbox](https://codesandbox.io/) 此平台的账号不会休眠
 
 > 提醒： 滥用可能导致账户被BAN！！！ 
 
